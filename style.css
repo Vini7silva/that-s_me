@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech&display=swap');
+
+body{    
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+img{
+    position: relative;
+    bottom: 690px;
+    left: 175px;
+    
+}
+
+h1 {    
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 99px;
+    color: aliceblue;
+    position: relative;
+    bottom: 1300px;
+    left: 670px;  
+}
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    color: #ffff;
+    position: relative;   
+    bottom: 1350px;
+    left: 780px;
+    width: 100vw;
+}
+.icones img{
+    width: 35px;
+    height: 35px;
+    position: relative;
+    bottom: 1390px;
+    left: 850px;
+    margin: 0 5px;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    color: #ffff;
+    position: relative;
+    bottom: 1389px;
+    left: 670px
+}
+h5 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19px;
+    color: #ffff;
+    position: relative;
+    bottom: 1375px;
+    left: 759px;
+}
+h4 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19px;
+    color: #ffff;
+    position: relative;
+    bottom: 1355px;
+    left: 799px;
+}
